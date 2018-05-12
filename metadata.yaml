@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '5752'
     url: http://www.gutenberg.org/2009/agents/5752
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14943#An-American-IdyllThe-Life-of-Carleton-H.-Parker
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2005-02-07'
 gutenberg_type: Text
